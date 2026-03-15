@@ -5,7 +5,7 @@ name = "googleapis.gcalendar"
 version = "5.0.0"
 license = ["Apache-2.0"]
 authors = ["Ballerina"]
-keywords = ["Productivity/Calendars", "Cost/Free", "Collaboration", "Enterprise IT", "Management", "Vendor/Google", "Area/Productivity", "Type/Connector"]
+keywords = ["Productivity/Calendars", "Cost/Free", "Collaboration", "Enterprise IT", "Management", "Vendor/Google", "Area/Productivity & Collaboration", "Type/Connector"]
 icon = "icon.png"
 repository = "https://github.com/ballerina-platform/module-ballerinax-googleapis.calendar"
 
