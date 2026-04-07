@@ -1,8 +1,13 @@
 ## Overview
 
-The Ballerina Google Calendar Connector provides the capability to manage events and calendar operations. It also provides the capability to support service account authorization that can provide delegated domain-wide access to the GSuite domain and support admins to do operations on behalf of the domain users.
+The Google Calendar connector provides the capability to manage events and calendar operations. It also provides the capability to support service account authorization that can provide delegated domain-wide access to the GSuite domain and support admins to do operations on behalf of the domain users. This module supports [Google Calendar API V3](https://developers.google.com/calendar/api).
 
-The Ballerina Google Calendar module supports [Google Calendar API V3](https://developers.google.com/calendar/api).
+### Key Features
+
+- Manage events and calendar operations
+- Service account authorization support
+- Delegated domain-wide access to GSuite domains
+- Support for admins to perform operations on behalf of domain users
 
 ## Setup guide
 
