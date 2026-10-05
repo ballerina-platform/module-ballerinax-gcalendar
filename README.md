@@ -18,6 +18,13 @@ The Google Calendar Connector provides the capability to manage events and calen
 
 This module supports [Google Calendar API V3](https://developers.google.com/calendar/api).
 
+### Key Features
+
+- Manage events and calendar operations
+- Service account authorization support
+- Delegated domain-wide access to GSuite domains
+- Support for admins to perform operations on behalf of domain users
+
 ## Setup guide
 
 To utilize the Calendar connector, you must have access to the Calendar REST API through a [Google Cloud Platform (GCP)](https://console.cloud.google.com/) account and a project under it. If you do not have a GCP account, you can sign up for one [here](https://cloud.google.com/).
